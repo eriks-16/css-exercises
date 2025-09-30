@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odds{
+    background-color: rgb(241, 119, 119);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#two{
+    color: rgb(54, 54, 218);
+    font-size: 36px;
+}
+.odds.unique{
+    font-size: 24px;
+}
+#four{
+    background-color: rgb(156, 218, 180);
+    font-size: 24px;
+    font-weight: bold;
+}
